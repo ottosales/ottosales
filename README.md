@@ -22,7 +22,7 @@ these are the languages / technologies I work on a daily basis, and below them, 
 
 &nbsp;
 
-these are the languages I am currently studying / plan on study for work purposes:
+these are the languages / technologies I am currently studying / plan on study for work purposes:
 <div style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 48px" />
@@ -35,7 +35,7 @@ these are the languages I am currently studying / plan on study for work purpose
 
 &nbsp;
 
-and finally, the languages I am currently studying / plan on study for personal development:
+and finally, the languages / technologies I am currently studying / plan on study for personal development:
 <div style="display: inline;">
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
     <img src="https://img.icons8.com/fluency/48/000000/unity.png" />
