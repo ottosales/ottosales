@@ -9,7 +9,7 @@ these are the languages / technologies I work on a daily basis, and below them, 
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="javascript" />
     <img src="https://img.icons8.com/color/48/000000/git.png" title="git" />
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="linux" />
-    <a href="https://developer.enonic.com/docs/xp/stable/manifesto" target="_blank"><img src="https://raw.githubusercontent.com/enonic/xp/master/misc/logo.png" style="height: 44px" title="enonic xp" /></a>
+    <img src="https://raw.githubusercontent.com/enonic/xp/master/misc/logo.png" style="height: 44px" title="enonic xp" />
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="html" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="css" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" style="width: 48px" title="jquery" />
