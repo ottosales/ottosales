@@ -21,7 +21,7 @@ these are the languages / technologies I work on a daily basis, and below them, 
 </div>
 
 &nbsp;
-
+<!-- 
 these are the languages / technologies I am currently studying / plan on study for work purposes:
 <div style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 48px" title="react" />
@@ -44,7 +44,7 @@ and finally, the languages / technologies I am currently studying / plan on stud
     <img src="https://img.icons8.com/fluency/50/000000/blender-3d.png" title="blender" />
     <img src="https://img.icons8.com/dusk/64/000000/aseprite.png" style="width: 48px" title="aseprite" />
 </div>
-
+ -->
 <!--
 **ottosales/ottosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
