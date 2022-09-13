@@ -1,6 +1,6 @@
 ### sup pal, welcome :)
 
-#### my name's Otávio, but you can call me otto. I'm a computer engineering student and part time web developer.
+#### my name's Otávio, but you can call me otto. I'm a computer engineering student and full time web developer.
 
 ***
 
