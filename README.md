@@ -7,13 +7,13 @@
 Here are the languages/technologies I work on a daily basis, and below them, the languages I don't work with at the moment but have some professional experience:
 <div style="display: inline;">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="javascript" />
-    <img src="https://img.icons8.com/color/48/000000/git.png" title="git" />
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="linux" />
     <img width="38" height="38" margin-top: "-2px" src="https://img.icons8.com/office/38/react.png" title="react"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" title="nodejs"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" title="mongodb"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="html" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" title="css" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" title="git" />
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="linux" />
     <div></div>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
