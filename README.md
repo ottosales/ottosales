@@ -42,10 +42,10 @@ these are the languages / technologies I am currently studying / plan on study f
 And here are languages/technologies/tools I am currently studying for personal development/hobby:
 <div style="display: inline;">
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="csharp" />
-    <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="unity" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="width: 48px" title="godot" />
     <!--
     <img src="https://img.icons8.com/nolan/64/unreal-engine.png" style="width: 48px" title="unreal" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="width: 48px" title="godot" />
+    <img src="https://img.icons8.com/fluency/48/000000/unity.png" title="unity" />
     -->
     <img src="https://img.icons8.com/fluency/50/000000/blender-3d.png" title="blender" />
     <img src="https://img.icons8.com/dusk/64/000000/aseprite.png" style="width: 48px" title="aseprite" />
