@@ -1,6 +1,6 @@
 ### Hello!
 
-#### My name's Otávio, but you can call me Otto. I'm a computer engineering student and fullstack web developer.
+#### My name's Otávio, but you can call me Otto. I'm a Computer Engineer (bsc) and Fullstack Web Developer.
 
 ***
 
