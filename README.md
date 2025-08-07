@@ -4,6 +4,7 @@
 
 ***
 
+(outdated)
 Here are the languages/technologies I work on a daily basis, and below them, the languages I don't work with at the moment but have some professional experience:
 <div style="display: inline;">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="javascript" />
